@@ -1,0 +1,11 @@
+{
+  "name": "Learning",
+  "version": "1.0.0",
+  "description": "Learning example",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.16.4"
+  }
+}
